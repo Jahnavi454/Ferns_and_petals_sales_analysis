@@ -60,6 +60,7 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 * What is the average customer spending and order delivery time?
 
 # Dashboard Screenshots
+
 * Overall Sales Dashboard
 
   
@@ -69,18 +70,31 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 
 * Revenue by Occasion
 
+
+
+
   
  <img width="272" height="176" alt="image" src="https://github.com/user-attachments/assets/0e1f0e55-ca3c-4cff-96a7-c97d58517b80" />
 
 
 
+
+
 * Revenue by Category
+
+
+
   <img width="275" height="174" alt="image" src="https://github.com/user-attachments/assets/a7c4af1d-b1d2-41d8-aef8-bc06b0d4def3" />
+
+
 
 * Monthly Revenue Trend
 
-  
+
+
   <img width="253" height="180" alt="image" src="https://github.com/user-attachments/assets/8682ec57-782c-4fd4-9ce4-280717dd2810" />
+
+
 
 
 
@@ -88,7 +102,11 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 
 
 
+
 <img width="272" height="182" alt="image" src="https://github.com/user-attachments/assets/3a3f4b86-0907-414d-af00-6ad256b0f6e3" />
+
+
+
 
 
 
