@@ -49,16 +49,6 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 * Excel Dashboard Design – for clear and user-friendly reporting
   
 
-# Business Questions Addressed
-* The dashboard answers key business questions such as:
-* What is the total revenue and total number of orders?
-* How does sales performance vary by month in 2023?
-* Which occasions generate the highest revenue?
-* What are the top-performing product categories and products?
-* Which cities contribute the most orders?
-* How does order time impact revenue trends?
-* What is the average customer spending and order delivery time?
-
 # Dashboard Screenshots
 
 * Overall Sales Dashboard
