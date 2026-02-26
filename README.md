@@ -1,6 +1,6 @@
 # Ferns and Petals (FNP) Sales Analysis Dashboard (Excel)
 
-Project Description
+# Project Description
 
 This project presents an end-to-end sales analysis dashboard built in Microsoft Excel using transactional data from 
 Ferns and Petals (FNP), a gifting company operating across multiple occasions such as Diwali, Raksha Bandhan, Holi,
@@ -26,20 +26,16 @@ interactive visuals.
 * Average Customer Spend: ₹3,520.98
 
 # Dashboard Features
-* Total Revenue: Identify the overall revenue.
-* Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
-* Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
-* Top Products by Revenue: Determine which products are the top revenue generators.
-* Customer Spending Analysis: Understand how much customers are spending on average.
-* Sales Performance by Top 5 Product: Track the sales performance of top 5 products.
-* Top 10 Cities by Number of Orders: Find out which cities are placing the highest
-  number of orders.
-* Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery
-  times.
-* Revenue Comparison Between Occasions: Compare revenue generated across
-  different occasions.
-*  Product Popularity by Occasion: Identify which products are most popular during
-   specific occasions.
+* Total Revenue
+* Average Order and Delivery Time
+* Monthly Sales Performance
+* Top Products by Revenue
+* Customer Spending Analysis
+* Sales Performance by Top 5 Product
+* Top 10 Cities by Number of Orders
+* Order Quantity vs. Delivery Time
+* Revenue Comparison Between Occasions
+*  Product Popularity by Occasion
 
   
 # Tools & Excel Features Used
@@ -65,22 +61,40 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 
 # Dashboard Screenshots
 * Overall Sales Dashboard
+
+  
 <img width="917" height="406" alt="image" src="https://github.com/user-attachments/assets/3fcf8a2a-7f13-4af3-960c-aa414453b66d" />
 
+
+
 * Revenue by Occasion
+
+  
  <img width="272" height="176" alt="image" src="https://github.com/user-attachments/assets/0e1f0e55-ca3c-4cff-96a7-c97d58517b80" />
+
+
 
 * Revenue by Category
   <img width="275" height="174" alt="image" src="https://github.com/user-attachments/assets/a7c4af1d-b1d2-41d8-aef8-bc06b0d4def3" />
 
 * Monthly Revenue Trend
+
+  
   <img width="253" height="180" alt="image" src="https://github.com/user-attachments/assets/8682ec57-782c-4fd4-9ce4-280717dd2810" />
+
+
 
 🔹 Top Products & Cities
 
+
+
 <img width="272" height="182" alt="image" src="https://github.com/user-attachments/assets/3a3f4b86-0907-414d-af00-6ad256b0f6e3" />
 
+
+
 <img width="262" height="181" alt="image" src="https://github.com/user-attachments/assets/6056c694-3ff3-4554-854b-c2c81e2b0218" />
+
+
 
 
 # How to Use
