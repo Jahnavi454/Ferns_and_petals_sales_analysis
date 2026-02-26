@@ -74,7 +74,7 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 
 
   
- <img width="272" height="176" alt="image" src="https://github.com/user-attachments/assets/0e1f0e55-ca3c-4cff-96a7-c97d58517b80" />
+<img width="272" height="176" alt="image" src="https://github.com/user-attachments/assets/0e1f0e55-ca3c-4cff-96a7-c97d58517b80" />
 
 
 
@@ -84,7 +84,7 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 
 
 
-  <img width="275" height="174" alt="image" src="https://github.com/user-attachments/assets/a7c4af1d-b1d2-41d8-aef8-bc06b0d4def3" />
+<img width="275" height="174" alt="image" src="https://github.com/user-attachments/assets/a7c4af1d-b1d2-41d8-aef8-bc06b0d4def3" />
 
 
 
@@ -92,7 +92,7 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 
 
 
-  <img width="253" height="180" alt="image" src="https://github.com/user-attachments/assets/8682ec57-782c-4fd4-9ce4-280717dd2810" />
+<img width="253" height="180" alt="image" src="https://github.com/user-attachments/assets/8682ec57-782c-4fd4-9ce4-280717dd2810" />
 
 
 
