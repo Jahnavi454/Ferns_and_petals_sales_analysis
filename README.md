@@ -40,14 +40,14 @@ interactive visuals.
 
 # Dashboard Screenshots
 
-* Overall Sales Dashboard
+# Overall Sales Dashboard
 
   
 <img width="917" height="406" alt="image" src="https://github.com/user-attachments/assets/3fcf8a2a-7f13-4af3-960c-aa414453b66d" />
 
 
 
-* Revenue by Occasion
+# Revenue by Occasion
 
 
 
@@ -59,7 +59,7 @@ interactive visuals.
 
 
 
-* Revenue by Category
+# Revenue by Category
 
 
 
@@ -67,7 +67,7 @@ interactive visuals.
 
 
 
-* Monthly Revenue Trend
+# Monthly Revenue Trend
 
 
 
@@ -77,7 +77,7 @@ interactive visuals.
 
 
 
-🔹 Top Products & Cities
+#  Top Products & Cities
 
 
 
