@@ -36,17 +36,6 @@ interactive visuals.
 * Order Quantity vs. Delivery Time
 * Revenue Comparison Between Occasions
 *  Product Popularity by Occasion
-
-  
-# Tools & Excel Features Used
-This project makes extensive use of the following Microsoft Excel tools and features:
-* Power Query Editor – for data cleaning, transformation, and preparation
-* Power Pivot – for data modeling and managing relationships
-* Pivot Tables – for aggregating and analyzing large datasets
-* Pivot Charts – for dynamic visual representation of insights
-* Slicers & Timelines – for interactive filtering by occasion and date
-* Calculated fields & KPIs – for performance metrics
-* Excel Dashboard Design – for clear and user-friendly reporting
   
 
 # Dashboard Screenshots
@@ -104,12 +93,21 @@ This project makes extensive use of the following Microsoft Excel tools and feat
 
 
 
-
+# Tools & Excel Features Used
+This project makes extensive use of the following Microsoft Excel tools and features:
+* Power Query Editor – for data cleaning, transformation, and preparation
+* Power Pivot – for data modeling and managing relationships
+* Pivot Tables – for aggregating and analyzing large datasets
+* Pivot Charts – for dynamic visual representation of insights
+* Slicers & Timelines – for interactive filtering by occasion and date
+* Calculated fields & KPIs – for performance metrics
+* Excel Dashboard Design – for clear and user-friendly reporting
 # How to Use
 * Download the Excel file
 * Open in Microsoft Excel (Desktop version recommended)
 * Use slicers to filter by occasion, date, or city
 * Explore insights visually
+  
 
 # Key Learnings
 * Hands-on experience with Excel dashboards
